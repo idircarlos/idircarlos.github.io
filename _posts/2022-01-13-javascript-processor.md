@@ -19,7 +19,7 @@ Apart of this, thare are the essential symbols like round and curly brackets, do
 
 ### Variables, decisions and loops
 
-Here we declare some of this modified javascript language types, some predefined functions and statements and functions.
+Here we declare some of this modified javascript language types, predefined functions, statements and functions.
 
 * int, boolean, string
 * print, input
