@@ -18,7 +18,7 @@ There are a few logic and aritmethic symbols that I implemented:
 
 Apart of this, thare are the essential symbols like round and curly brackets, double slash for commenting lines, single quotes for string variables and so on.
 
-### Variables, decisions and loops
+### Variables, functions, decisions and loops
 
 Here we declare some of this modified javascript language types, predefined functions, statements and functions.
 
@@ -26,3 +26,11 @@ Here we declare some of this modified javascript language types, predefined func
 * `print`, `input`
 * `if`, `for`
 * `function`
+
+### Examples
+
+#### Correct input:
+
+<img src="../img/processor/good_input.png"
+     alt="Good input"
+     style="float: left; margin-right: 10px;" />
