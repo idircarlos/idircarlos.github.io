@@ -9,11 +9,11 @@ This is one of my biggest projects I have ever done. It is a reduced lexic, synt
 
 There are a few aritmethic and logic symbols that I implemented:
 
-* Assignment `=` 
-* Modular assignment `%=`
-* Minus `-`
-* Minor than `<`
-* Negation `!`
+* `=`&nbsp;&nbsp;&nbsp;Assignment 
+* `%=`&nbsp;&nbsp;Modular assignment 
+* `-`&nbsp;&nbsp;&nbsp;Minus 
+* `<`&nbsp;&nbsp;&nbsp;Minor than 
+* `<`&nbsp;&nbsp;&nbsp;Negation
 
 Apart of this, thare are the essential symbols like round and curly brackets, double slash for commenting lines, single quotes for string variables and so on.
 
