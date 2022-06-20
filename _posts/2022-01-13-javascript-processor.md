@@ -9,11 +9,11 @@ This is one of my biggest projects I have ever done. It is a reduced lexic, synt
 
 There are a few aritmethic and logic symbols that I implemented:
 
-* Assignment (=) 
-* Modular assignment (%=)
-* Minus (-)
-* Minor than (<)
-* Negation (!)
+* Assignment `=` 
+* Modular assignment `%=`
+* Minus `-`
+* Minor than `<`
+* Negation `!`
 
 Apart of this, thare are the essential symbols like round and curly brackets, double slash for commenting lines, single quotes for string variables and so on.
 
@@ -22,6 +22,6 @@ Apart of this, thare are the essential symbols like round and curly brackets, do
 Here we declare some of this modified javascript language types, predefined functions, statements and functions.
 
 * `int`, `boolean`, `string`
-* print, input
-* if, for
-* function
+* `print`, `input`
+* `if`, `for`
+* `function`
