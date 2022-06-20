@@ -21,7 +21,7 @@ Apart of this, thare are the essential symbols like round and curly brackets, do
 
 Here we declare some of this modified javascript language types, predefined functions, statements and functions.
 
-* int, boolean, string
+* `int`, `boolean`, `string`
 * print, input
 * if, for
 * function
