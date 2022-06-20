@@ -34,3 +34,8 @@ Here we declare some of this modified javascript language types, predefined func
 <img src="../img/processor/good_input.png"
      alt="Good input"
      style="float: left; margin-right: 10px;" />
+
+<img src="../img/processor/cmd_good.png"
+     alt="Good input cmd"
+     style="float: left; margin-right: 10px;" />
+
