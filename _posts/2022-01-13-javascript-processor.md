@@ -29,13 +29,36 @@ Here we declare some of this modified javascript language types, predefined func
 
 ### Examples
 
-#### Correct input:
+#### Correct
+
+This is a **correct** input:
 
 <img src="../img/processor/good_input.png"
      alt="Good input"
      style="float: left; margin-right: 10px;" />
 
+So the processor prints out that everything is good:
+
 <img src="../img/processor/cmd_good.png"
      alt="Good input cmd"
      style="float: left; margin-right: 10px;" />
 
+#### Incorrect
+
+This is an **incorrect** input:
+
+<img src="../img/processor/bad_input.png"
+     alt="Incorrect input"
+     style="float: left; margin-right: 10px;" />
+
+And the processor says that we have to check a file where the errors are displayed:
+
+<img src="../img/processor/cmd_bad.png"
+     alt="Good input cmd"
+     style="float: left; margin-right: 10px;" />
+
+The **errors** file:
+
+<img src="../img/processor/errores.png"
+     alt="Good input cmd"
+     style="float: left; margin-right: 10px;" />
