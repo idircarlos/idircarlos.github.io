@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: 
 ---
 
 # My projects
