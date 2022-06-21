@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            My projects
+title:            my projects
 tagline:          'aa'
-description:      'A small space where I eventually post my <a href="https://www.fi.upm.es/?id=gradoingenieriainformatica" target="_blank">degree</a> and personal projects.'
+description:      'a small space where I eventually post my <a href="https://www.fi.upm.es/?id=gradoingenieriainformatica" target="_blank">degree</a> and personal projects.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
