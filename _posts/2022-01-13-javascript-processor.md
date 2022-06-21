@@ -29,7 +29,7 @@ Here we declare some of this modified javascript language types, predefined func
 
 ### Examples
 
-#### This is a **correct** input:
+This is a **correct** input:
 
 <img src="../img/processor/good_input.png"
      alt="Good input"
@@ -41,7 +41,7 @@ So the processor prints out that everything is good:
      alt="Good input cmd"
      style="float: left; margin-right: 10px;" />
 
-#### This is an **incorrect** input:
+This is an **incorrect** input:
 
 <img src="../img/processor/bad_input.png"
      alt="Incorrect input"
