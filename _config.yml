@@ -21,7 +21,7 @@ paginate:         5
 # Custom vars
 version:          1.1
 
-email:            idircarlos@gmail.com
+email:            'idircarlos@gmail.com'
 
 linkedin:         https://www.linkedin.com/in/idircarlos
 

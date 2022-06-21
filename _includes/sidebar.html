@@ -11,7 +11,7 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item" href="{{ site.email }}">mail</a>
+      <a class="sidebar-nav-item" href="mailto:{{ site.email }}">mail</a>
       <a class="sidebar-nav-item" href="{{ site.linkedin }}">linkedin</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">github</a>
       <span class="sidebar-nav-item">currently v{{ site.version }}</span>
