@@ -42,7 +42,7 @@ There are also another commands that are commitment of the own shell. I implemen
 
 3. If we want to send to the background some task we can do it by typing `&` at the end of the command. Example: `sleep 10 &`.
 
-4. On the one hand we can't kill the shell with *Ctrl+C* or *Ctrl+\\* it will be impossible, like a real shell. The only way of exiting the shell is by inserting a EOF with *Ctrl+D*. On the other hand we can kill processes that we executed in the frontground or background.
+4. On the one hand we can't kill the shell with *Ctrl+C* or *Ctrl+\\* it will be impossible, like a real shell. The only way of exiting the shell is by inserting a EOF with *Ctrl+D*. On the other hand we can kill processes that we executed in the foreground or background.
 
 <img src="../img/msh/pipesandso.png"
      alt="Externs commands"
@@ -57,10 +57,10 @@ There are also another commands that are commitment of the own shell. I implemen
     2. `$variable` replace it by the `value` of the environment variable `variable`.
 
 3. There are special variables that the shell interpretes in a special way.
-    3. `prompt` The minishell prompt (msh> by default)
+    3. `prompt` The minishell *prompt* (msh> by default)
     3. `mypid`&nbsp; The *pid* of the shell process
     3. `bgpid`&nbsp; The *pid* of the last ran background process
-    3. `status` The return value of the last command or pipeline
+    3. `status` The return *value* of the last command or pipeline
 
 <img src="../img/msh/wildcard.png"
      alt="Interns commands"
