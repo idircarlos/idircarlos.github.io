@@ -53,8 +53,8 @@ There are also another commands that are commitment of the own shell. I implemen
 1. The shell incorporates the posibility of the using the *?* wildcard, which tries to replace a character in that position.
 
 2. The shell interpretates some special characters like *~* or *$*
-    2 `~[user]` if user appears, then is replaced by the `home` of `user`. Otherwise by the home's user that executed the command.
-    2 `$variable` replace it by the `value` of the environment variable `variable`.
+    2. `~[user]` if user appears, then is replaced by the `home` of `user`. Otherwise by the home's user that executed the command.
+    2. `$variable` replace it by the `value` of the environment variable `variable`.
 
 3. There are special variables that the shell interpretes in a special way.
     3. `prompt` The minishell prompt (msh> by default)
