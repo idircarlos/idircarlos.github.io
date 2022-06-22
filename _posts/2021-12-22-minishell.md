@@ -58,8 +58,8 @@ There are also another commands that are commitment of the own shell. I implemen
 
 3. There are special variables that the shell interpretes in a special way.
     3. `prompt` The minishell prompt (msh> by default)
-    3. `mypid`&nbsp The *pid* of the shell process
-    3. `bgpid`&nbsp The *pid* of the last ran background process
+    3. `mypid`&nbsp; The *pid* of the shell process
+    3. `bgpid`&nbsp; The *pid* of the last ran background process
     3. `status` The return value of the last command or pipeline
 
 <img src="../img/msh/wildcard.png"
