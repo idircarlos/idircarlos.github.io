@@ -17,8 +17,6 @@ The shell is completly ready to execute internal commands of the OS like:
 * `echo`
 * `And an infinite list of commands ...`
 
-### Examples
-
 <img src="../img/msh/interns.png"
      alt="Interns commands"
      style="float: left; margin-right: 10px;" />
@@ -31,8 +29,6 @@ There are also another commands that are commitment of the own shell. I implemen
 * `umask [value]`
 * `limit [resource [max]]`
 * `set [variable [value...]]`
-
-### Examples
 
 <img src="../img/msh/externs.png"
      alt="Externs commands"
@@ -48,8 +44,6 @@ There are also another commands that are commitment of the own shell. I implemen
 
 4. On the one hand we can't kill the shell with *Ctrl+C* or *Ctrl+\\* it will be impossible, like a real shell. The only way of exiting the shell is by inserting a EOF with *Ctrl+D*. On the other hand we can kill processes that we executed in the frontground or background.
 
-### Examples
-
 <img src="../img/msh/pipesandso.png"
      alt="Externs commands"
      style="float: left; margin-right: 10px;" />
@@ -59,16 +53,14 @@ There are also another commands that are commitment of the own shell. I implemen
 1. The shell incorporates the posibility of the using the *?* wildcard, which tries to replace a character in that position.
 
 2. The shell interpretates some special characters like *~* or *$*
-    2.1 `~[user]` if user appears, then is replaced by the `home` of `user`. Otherwise by the home's user that executed the command.
-    2.2 `$variable` replace it by the `value` of the environment variable `variable`.
+    2 `~[user]` if user appears, then is replaced by the `home` of `user`. Otherwise by the home's user that executed the command.
+    2 `$variable` replace it by the `value` of the environment variable `variable`.
 
 3. There are special variables that the shell interpretes in a special way.
-    3.1 `prompt` The minishell prompt (msh> by default)
-    3.2 `mypid`&nbsp The *pid* of the shell process
-    3.3 `bgpid`&nbsp The *pid* of the last ran background process
-    3.4 `status` The return value of the last command or pipeline
-
-### Examples
+    3. `prompt` The minishell prompt (msh> by default)
+    3. `mypid`&nbsp The *pid* of the shell process
+    3. `bgpid`&nbsp The *pid* of the last ran background process
+    3. `status` The return value of the last command or pipeline
 
 <img src="../img/msh/wildcard.png"
      alt="Interns commands"
