@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Javascript Processor
+language: Java
 ---
 
 This is one of my biggest projects I have ever done. It is a reduced lexic, syntactic and semtatic processor of a modified version of Javascript where you give it a source javascript file and it returns if the file is well written. In case of failure, it will give you the lines where the error is and the mistakes you did, like a usual compiler.
