@@ -48,6 +48,8 @@ There are also another commands that are commitment of the own shell. I implemen
 
 4. If we want to kill the process with *Ctrl+C* or *Ctrl+\\* it will be impossible, like a real shell. The only way of exiting the shell is by inserting a EOF with *Ctrl+D*.
 
+### Examples
+
 <img src="../img/msh/pipesandso.png"
      alt="Externs commands"
      style="float: left; margin-right: 10px;" />
