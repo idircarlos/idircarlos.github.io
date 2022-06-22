@@ -73,6 +73,11 @@ a {
 a strong {
   color: inherit;
 }
+
+a #twitch {
+    color: #9370db;
+    text-decoration: none;
+}
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
