@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            my projects
 tagline:          'aa'
-description:      'a small space where I eventually post my favorites <a href="https://www.fi.upm.es/?id=gradoingenieriainformatica" target="_blank">degree</a> and personal projects.'
+description:      'a small space where I occasionally post my favorites <a href="https://www.fi.upm.es/?id=gradoingenieriainformatica" target="_blank">degree</a> and personal projects.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
