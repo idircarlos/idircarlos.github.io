@@ -19,6 +19,6 @@ Only with this 3 rules we can observe a lot of interesting patterns.
 
 Here is an infinite loop which generetes a lot of 'spacecraft'
 
-<img src="../img/life/loop.mp4"
+<img src="../img/life/loop.gif"
      alt="Loop"
      style="float: left; margin-right: 10px;" />
